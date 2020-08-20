@@ -1,2 +1,2 @@
-# Project20
-it's project about the GCSO
+# p5.play-boilerplate
+Boiler plate for p5.play
